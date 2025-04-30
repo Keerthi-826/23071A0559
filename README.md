@@ -1,1 +1,1 @@
-# 23071A0559
+Validation of XML using both DTD and XSD.
