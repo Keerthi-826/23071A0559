@@ -1,0 +1,20 @@
+<bookstore> 
+    <book isbn="987-0123456"> 
+        <title>Harry Potter</title> 
+        <author>J. K Rowling</author> 
+        <price currency="USD">34.99</price> 
+        <publishedYear>2008</publishedYear> 
+    </book> 
+    <book isbn="123-9876540"> 
+        <title>Wings of Fire</title> 
+        <author>A. P. J Abdul Kalam</author> 
+        <price currency="Rupee">200</price> 
+        <publishedYear>1999</publishedYear> 
+    </book> 
+    <book isbn="529-0875678"> 
+        <title>Java Programming</title> 
+        <author>James Gosling</author> 
+        <price currency="USD">24.99</price> 
+        <publishedYear>2002</publishedYear> 
+    </book> 
+</bookstore>
